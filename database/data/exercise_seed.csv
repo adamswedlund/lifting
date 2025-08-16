@@ -1,0 +1,11 @@
+exercise_id,name,category,muscle_group,equipment
+ea143328-67a9-48e8-8dbc-715cdc076d63,Barbell Bench Press,strength,chest,barbell
+155f97e9-2434-449c-9455-fa356f96647a,Incline Dumbbell Press,strength,chest,dumbbells
+756a645b-3756-4524-aa56-9ad4d319c066,Lat Pulldown,strength,back,machine
+5853ade2-6c72-4eb2-b28e-7b6788b6d2ff,Seated Cable Row,strength,back,cable
+bb729e12-4aed-41da-98f5-7f4effe7caf4,Overhead Press,strength,shoulders,barbell
+e8aed26a-5df9-4039-acf1-7a4443975ab0,Lateral Raise,accessory,shoulders,dumbbells
+d34bbf51-f060-418c-ae6c-cbe25ad1cd35,Back Squat,strength,legs,barbell
+83093e65-867d-488f-ad86-af996dbe9311,Romanian Deadlift,strength,hamstrings,barbell
+1c0a38c9-32da-4cfa-a390-0679b8f0f0a5,Bicep Curl,accessory,biceps,dumbbells
+6275dcaf-743a-4ae7-8325-97e561d221ca,Tricep Rope Pushdown,accessory,triceps,cable

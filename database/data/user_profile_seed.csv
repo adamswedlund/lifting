@@ -1,0 +1,3 @@
+user_id,auth0,display_name,unit_system,created_at,updated_at
+8baf20a0-2023-4fee-955f-4fb539ca50b3,auth0|adam,Adam S,imperial,2025-08-14 15:00:00,2025-08-15 15:00:00
+e0c72d07-63dd-4454-8cf9-9801ba012160,auth0|test_user,Test User,metric,2025-08-14 15:00:00,2025-08-16 15:00:00
